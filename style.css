@@ -1,0 +1,32 @@
+#main{
+	
+	width: 80%;
+	background-color: lightgray;
+	margin: auto;
+
+}
+#title{
+	width: 100%;
+	display: grid;
+	justify-content: center;
+
+}
+#title h1,h3{
+	text-align: center;
+}
+#img-div {
+  width: 100%;
+  display: grid;
+  justify-content: center;
+
+  
+}
+figcaption{
+	text-align: center;
+}
+
+#image {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
